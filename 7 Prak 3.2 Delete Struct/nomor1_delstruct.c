@@ -131,7 +131,7 @@ Node *p;
 void pesan_alokasi();
 void insert_akhir();
 void tampil();
-void del_awal();
+
 
 int main()
 {
