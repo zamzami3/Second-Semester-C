@@ -1,0 +1,4 @@
+Yang dikumpulkan, nama filenya yang
+
+1. 1menuarray.c
+2. 2menusll2.c
